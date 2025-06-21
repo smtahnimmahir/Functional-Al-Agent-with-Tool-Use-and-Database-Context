@@ -4,6 +4,12 @@ A modular, offline-capable AI assistant built step-by-step in Google Colab. This
 
 ---
 
+
+## 🚀 AI Agent 
+
+🔗 **Open in Google Colab**: [🔗 Google Colab Link](https://colab.research.google.com/drive/1donMsByIpvIQSIaNOblMloweH4PvXVHf?usp=sharing)
+
+
 ## 📌 Project Overview
 
 This AI Agent demonstrates how to build an intelligent assistant using:
